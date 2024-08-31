@@ -1,0 +1,26 @@
+{
+  "name": "mandal_quotes",
+  "version": "1.0.0",
+  "description": "This package will return random quotes",
+  "main": "build/index.js",
+  "type": "module",
+  "types": "build/index.d.js",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf build && tsc"
+  },
+  "keywords": [
+    "motivation_quotes",
+    "NodeJs",
+    "ReactJs"
+  ],
+  "author": "Sourav Mandal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "typescript": "^5.5.4"
+  }
+}
