@@ -9,6 +9,10 @@
     "build",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souravmandal2004/custom_quotes_generator_npm_package.git"
+  },
   "scripts": {
     "build": "rm -rf build && tsc"
   },
