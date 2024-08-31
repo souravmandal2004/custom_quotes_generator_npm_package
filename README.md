@@ -1,0 +1,1 @@
+# custom_quotes_generator_npm_package
